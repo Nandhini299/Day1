@@ -1,3 +1,45 @@
 # Day1
 
-APTITUDE
+I. APTITUDE(Percentage)
+1.Solution:
+  20% = 20/100 => 0.2
+  Let the num be x.
+    1x + 0.2x = 120 => 1.20x = 120 
+    x = 120/1.20 => x = The Original number is 100
+
+2.Solution:
+  org_price = 50,000
+  new_price = 60,000
+  inc = 60000 - 50000 = 10000
+  PERCENTAGE INC = (inc/org_price) x 100
+                 = (10000/50000) x 100 = (1/5) x 100 => The percentage increase is 20%
+  
+3.Solution:
+  student scored = 72/90 => 0.8
+  percentage ? = 0.8 x 100 => The Percentage of the score is 80%
+
+4.Solution:
+  org = 50,000
+  new = 60,000
+  precentage incr = new - org => 60000 - 50000 = 10000
+  Forumal : (inc/org) x 100 = (10000/50000) x 100
+                            = (1/5) x 100 = 20%
+
+5.Solution:
+  org_cost = 800, dis = 25%, price = ?
+  percenatge = 100% - 25% = 75%
+  price = 800 x (75/100) = 600
+
+II. VERBAL ABILITY
+1. Growth of Technology or Impact of Technology
+2. AI, ML, Automation
+3. To Increase efficiency
+
+Grammar:
+1. She doesn't understand the problem.
+2. He had completed the task.
+3. They are going to the meeting.
+
+
+
+  
